@@ -16,5 +16,5 @@ class aluno ():
             return False
 
 
-vinicius = aluno(123, "pedro", 2.5, 2.5, 2.0)
+vinicius = aluno(123, "vinicius", 2.5, 2.5, 2.0)
 print(vinicius.final())
